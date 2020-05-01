@@ -63,7 +63,7 @@ class App extends Component {
             return (
               <div className="container">
                 <div className="row bg-dark text-white">
-                  <div className="col-lg-12" ><h1>THEFOLDER</h1></div>
+                  <div className="col-lg-12" ><h1>THE FOLDER</h1></div>
                 </div>
                 <div className="row"></div>
                 <InputGroup className="mt-2">

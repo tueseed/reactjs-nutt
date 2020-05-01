@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactjs-nutt/static/css/main.d1b05096.chunk.css",
+    "main.js": "/reactjs-nutt/static/js/main.510b532a.chunk.js",
+    "main.js.map": "/reactjs-nutt/static/js/main.510b532a.chunk.js.map",
+    "runtime-main.js": "/reactjs-nutt/static/js/runtime-main.ddfd28a9.js",
+    "runtime-main.js.map": "/reactjs-nutt/static/js/runtime-main.ddfd28a9.js.map",
+    "static/css/2.69121389.chunk.css": "/reactjs-nutt/static/css/2.69121389.chunk.css",
+    "static/js/2.17380779.chunk.js": "/reactjs-nutt/static/js/2.17380779.chunk.js",
+    "static/js/2.17380779.chunk.js.map": "/reactjs-nutt/static/js/2.17380779.chunk.js.map",
+    "index.html": "/reactjs-nutt/index.html",
+    "precache-manifest.dcbd1cc2a6c22d36683f420360472cd2.js": "/reactjs-nutt/precache-manifest.dcbd1cc2a6c22d36683f420360472cd2.js",
+    "service-worker.js": "/reactjs-nutt/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/reactjs-nutt/static/css/2.69121389.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/reactjs-nutt/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.17380779.chunk.js.LICENSE.txt": "/reactjs-nutt/static/js/2.17380779.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddfd28a9.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.17380779.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.510b532a.chunk.js"
+  ]
+}
